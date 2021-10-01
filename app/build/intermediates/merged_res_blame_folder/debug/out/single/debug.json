@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_example_img.jpeg.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\example_img.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_furniture.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_all_furniture.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ractangal_stroked.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_ractangal_stroked.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nav__header.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_nav__header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_sort_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signin_page_background.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\signin_page_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_log_in.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_bottom.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favourite_furniture.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_favourite_furniture.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fav_unfill.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_fav_unfill.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_profile.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logo1.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\icon_logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navbar.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_navbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\menu_gallery_camera.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\menu\\gallery_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_update_user.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_update_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fav_recycler.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fav_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy_light.otf.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\font\\gilroy_light.otf"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_orderhistory_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_orderhistory_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_icon.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourites_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_favourites_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_top.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show__product.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_show__product.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_faq_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_faq_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourited_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_favourited_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_king_bed_24.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_baseline_king_bed_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\right.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_male_pp.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\male_pp.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colors.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_header_.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_header_.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_placed.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\order_placed.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_icon.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg2.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\btn_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_faqs.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_faqs.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy_bold.otf.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\font\\gilroy_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_another_account_background.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\button_another_account_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_image.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\user_image.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_box_24.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_baseline_account_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_recyclerview.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\product_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_order_history.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ractangal.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_ractangal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_keyboard_arrow_right_black.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable-v24\\ic_keyboard_arrow_right_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_product.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_signin_background.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\button_signin_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_address.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_name_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_name_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rating.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_empty_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noimage.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\noimage.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lowtohigh.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_lowtohigh.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pasword_icon.png.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\pasword_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_login_background.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_removed.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_removed.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hightolow.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_hightolow.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout_icon.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\ic_logout_icon.xml"
+    }
+]

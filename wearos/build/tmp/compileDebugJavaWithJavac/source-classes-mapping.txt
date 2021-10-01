@@ -1,0 +1,2 @@
+com/ecommerce/wearos/BuildConfig.java
+ com.ecommerce.wearos.BuildConfig

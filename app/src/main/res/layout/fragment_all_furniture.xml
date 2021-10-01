@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto">-->
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context=".SplashActivity">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/gilroy_bold"
+                    android:padding="10dp"
+                    android:text="All Furnitures"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    app:cardCornerRadius="@dimen/_10sdp"
+                    app:cardElevation="@dimen/_10sdp">
+
+
+                    <SearchView
+                        android:id="@+id/search_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/search_bg"
+                        android:iconifiedByDefault="false"
+                        android:queryBackground="@color/transparent"
+                        android:queryHint="Search for Furniture"
+                        android:theme="@style/ThemeOverlay.Search" />
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/furnitureRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
+
+<!--        <LinearLayout-->
+<!--            android:id="@+id/fragment_home_toolbar"-->
+<!--            android:layout_width="294dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/fragment_home_title"-->
+<!--                android:layout_width="294dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_margin="16dp"-->
+<!--                android:gravity="start"-->
+<!--                android:text="SastoFurniture"-->
+<!--                android:textSize="40sp" />-->
+<!--        </LinearLayout>-->
+
+<!--        <ScrollView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="0dp"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/fragment_home_toolbar"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent">-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <SearchView-->
+<!--                    android:id="@+id/searchView"-->
+<!--                    android:layout_width="306dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_alignParentTop="true"-->
+<!--                    android:layout_gravity="right"-->
+<!--                    android:iconifiedByDefault="false"-->
+<!--                    android:queryHint="Search Here" />-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_margin="16dp"-->
+<!--                    android:layout_gravity="left"-->
+<!--                    android:text="Our Product"-->
+<!--                    android:textSize="24sp" />-->
+<!--                <androidx.recyclerview.widget.RecyclerView-->
+<!--                    android:id="@+id/furnitureRecycler"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_margin="3dp"-->
+<!--                    android:padding="4dp"/>-->
+
+<!--            </LinearLayout>-->
+
+<!--        </ScrollView>-->
+
+
+<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
+
+<!--</FrameLayout>-->

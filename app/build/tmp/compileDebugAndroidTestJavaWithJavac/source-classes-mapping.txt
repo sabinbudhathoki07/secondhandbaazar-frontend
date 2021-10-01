@@ -1,0 +1,2 @@
+com/sabin/sastofurniture/test/BuildConfig.java
+ com.sabin.sastofurniture.test.BuildConfig
