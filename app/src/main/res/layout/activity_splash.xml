@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/logo_id"
         android:layout_centerHorizontal="true"
-        android:text="Welcome Back to Sasto Furniture"
+        android:text="Welcome Back to SecondHand Bazaar"
         android:textSize="20dp"
         android:textColor="@color/black"
         />

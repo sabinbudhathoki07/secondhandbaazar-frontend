@@ -13,7 +13,7 @@
     <string name="ok">OK</string>
     <string name="close">Close</string>
     <string name="ordering_from">Ordering From :</string>
-    <string name="restaurant_name_comes_here">Sasto Furniture</string>
+    <string name="restaurant_name_comes_here">Second Hand Bazaar</string>
     <string name="confirm_order">Confirm Order</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -28,7 +28,7 @@
     <string name="q_1_name_of_the_developer_of_the_app">Q.1 How long does it take for my products to be made and delivered??</string>
     <string name="faq_answer_one"> Production and delivery time varies depending on the item(s) ordered, your customisation options and your location. We always aim to deliver within 4 weeks from the date of your order. </string>
     <string name="q_2_about_the_app">Q.2 How much is shipping??</string>
-    <string name="faq_answer_two">Shipping prices inside Nepal are included in all Sasto Furniture products. For shipping outside the Nepal, please contact us at sastofurniture@gmail.com</string>
+    <string name="faq_answer_two">Shipping prices inside Nepal are included in all products. For shipping outside the Nepal, please contact us at secondhandbazaar@gmail.com</string>
     <string name="q_3_credits">Q.3 Does someone need to be home to accept delivery?</string>
     <string name="faq_answer_three"> Yes. It is necessary for someone to be available to accept delivery as we use a secure courier who requires a signature as proof of receipt.Furthermore, our carriers provide a door-to-door service, which does not include carrying the items inside, carrying items up stairs, placement, or removal of packaging. If your order includes larger items or you are not comfortable carrying your items, we suggest having an additional person to assist with the placement of your items inside.</string>
     <string name="open_drawer">Open Drawer</string>

@@ -16,12 +16,12 @@
         "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_all_furniture.xml"
     },
     {
-        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ractangal_stroked.xml.flat",
-        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_ractangal_stroked.xml"
-    },
-    {
         "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nav__header.xml.flat",
         "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\layout\\fragment_nav__header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ractangal_stroked.xml.flat",
+        "source": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\src\\main\\res\\drawable\\bg_ractangal_stroked.xml"
     },
     {
         "merged": "C:\\Users\\SABIN\\AndroidStudioProjects\\SastoFurniture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_icon.xml.flat",

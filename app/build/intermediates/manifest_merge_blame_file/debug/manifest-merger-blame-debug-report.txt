@@ -44,14 +44,14 @@
 25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 26
 27    <application
-27-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:17:5-55:19
+27-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:17:5-56:19
 28        android:allowBackup="true"
 28-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:18:9-35
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.3.2] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
-31        android:icon="@drawable/icon_logo1"
-31-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:19:9-44
+31        android:icon="@drawable/logo"
+31-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:19:9-38
 32        android:label="@string/app_name"
 32-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:20:9-41
 33        android:roundIcon="@mipmap/ic_launcher_round"
@@ -94,64 +94,67 @@
 55-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:42:13-51
 56            android:label="@string/title_activity_maps" />
 56-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:43:13-56
-57        <activity android:name="com.sabin.sastofurniture.LoginActivity" />
-57-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:44:9-51
-57-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:44:19-48
-58        <activity android:name="com.sabin.sastofurniture.SignupActivity" />
-58-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:45:9-52
-58-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:45:19-49
-59        <activity android:name="com.sabin.sastofurniture.UpdateUser" />
-59-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:46:9-48
-59-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:46:19-45
-60        <activity android:name="com.sabin.sastofurniture.DashboardActivity" />
-60-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:47:9-55
-60-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:47:19-52
-61        <activity android:name="com.sabin.sastofurniture.SplashActivity" >
-61-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:48:9-54:20
-61-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:48:19-49
-62            <intent-filter>
-62-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:49:13-53:29
-63                <action android:name="android.intent.action.MAIN" />
-63-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:50:17-69
-63-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:50:25-66
-64
-65                <category android:name="android.intent.category.LAUNCHER" />
-65-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:52:17-77
-65-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:52:27-74
-66            </intent-filter>
-67        </activity>
-68        <!-- Needs to be explicitly declared on P+ -->
-69        <uses-library
-69-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-70            android:name="org.apache.http.legacy"
-70-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-71            android:required="false" />
-71-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-72
-73        <service
-73-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
-74            android:name="androidx.room.MultiInstanceInvalidationService"
-74-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
-75            android:directBootAware="true"
-75-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
-76            android:exported="false" />
-76-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
-77
-78        <activity
-78-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-79-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-80            android:exported="false"
-80-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-81-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-82
-83        <meta-data
-83-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-84            android:name="com.google.android.gms.version"
-84-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-85            android:value="@integer/google_play_services_version" />
-85-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-86    </application>
-87
-88</manifest>
+57        <activity
+57-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:44:9-45:58
+58            android:name="com.sabin.sastofurniture.LoginActivity"
+58-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:44:19-48
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:45:13-56
+60        <activity android:name="com.sabin.sastofurniture.SignupActivity" />
+60-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:46:9-52
+60-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:46:19-49
+61        <activity android:name="com.sabin.sastofurniture.UpdateUser" />
+61-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:47:9-48
+61-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:47:19-45
+62        <activity android:name="com.sabin.sastofurniture.DashboardActivity" />
+62-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:48:9-55
+62-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:48:19-52
+63        <activity android:name="com.sabin.sastofurniture.SplashActivity" >
+63-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:49:9-55:20
+63-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:49:19-49
+64            <intent-filter>
+64-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:50:13-54:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:51:17-69
+65-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:51:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:53:17-77
+67-->C:\Users\SABIN\AndroidStudioProjects\SastoFurniture\app\src\main\AndroidManifest.xml:53:27-74
+68            </intent-filter>
+69        </activity>
+70        <!-- Needs to be explicitly declared on P+ -->
+71        <uses-library
+71-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+72            android:name="org.apache.http.legacy"
+72-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+73            android:required="false" />
+73-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\dc88e4597491521248a3227b9f47cdcf\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+74
+75        <service
+75-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+76            android:name="androidx.room.MultiInstanceInvalidationService"
+76-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+77            android:directBootAware="true"
+77-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+78            android:exported="false" />
+78-->[androidx.room:room-runtime:2.2.6] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\8a03424357a701a60203c7b32417cb2b\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+79
+80        <activity
+80-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+81            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+81-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+82            android:exported="false"
+82-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+83-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\4c3bfe788adf2ff93e897fc84286bc0e\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+84
+85        <meta-data
+85-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+86            android:name="com.google.android.gms.version"
+86-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+87            android:value="@integer/google_play_services_version" />
+87-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\SABIN\.gradle\caches\transforms-2\files-2.1\bb49fb92aa9e207e844416f5b80fd5d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+88    </application>
+89
+90</manifest>
